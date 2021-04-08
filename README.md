@@ -1,16 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px">
+ </h1>
 
-<!--
-**apcool46315/apcool46315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Advanced Javascript
 - 👯 I’m looking to collaborate on Front-End Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
