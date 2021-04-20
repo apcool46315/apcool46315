@@ -6,7 +6,7 @@
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=apcool46315&theme=gotham&show_icons=true)
 
 
-- 🔭 I’m currently working on Front-End Web Dev
+- 🔭 I’m currently working on Front-End Skills
 - 🌱 I’m currently learning Advanced Javascript
 - 👯 I’m looking to collaborate on Front-End Projects
 
